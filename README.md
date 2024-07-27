@@ -1,6 +1,6 @@
 # Sauve
 
-[Screenshot](sauve.png)
+![screenshot](sauve.png)
 
 ## Step 1: Initialize your project
 
