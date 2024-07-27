@@ -1,3 +1,7 @@
+# Sauve
+
+[Screenshot](sauve.png)
+
 ## Step 1: Initialize your project
 
 ```shell
