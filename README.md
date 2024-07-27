@@ -1,8 +1,8 @@
-# Sauve
+# Cowrie
 
-![screenshot](sauve.png)
+![screenshot](cowrie.png)
 
-Git Stash Navigator is an Electron-based desktop application designed to simplify and enhance the management of Git stashes.
+**Cowrie**, inspired by the Cowrie, an African shell historically used as currency and for ornamental purposes, is an Electron-based desktop application designed to simplify and enhance the management of Git stashes.
 This tool provides a user-friendly interface for developers to interact with their Git stashes, offering a visual and 
 intuitive way to handle complex version control operations.
 
